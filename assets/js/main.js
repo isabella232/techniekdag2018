@@ -10,6 +10,8 @@ var sectionHeight = function() {
   }
 }
 
+alert('test');
+
 $(window).resize(sectionHeight);
 
 $(function() {

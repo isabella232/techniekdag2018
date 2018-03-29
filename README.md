@@ -10,7 +10,7 @@ Om jouw pretpark te kunnen openen, moet je eerst het programma <a href="https://
 Nadat je Scratch hebt gedownload en geïnstalleerd, moet je de volgende stappen volgen:
 
 - Start Scratch.
-- Klink linksboven op het aardbolletje.
+- Klik linksboven op het aardbolletje.
 - Selecteer Nederlands.
 - Zoek in de lijst hieronder naar jouw unieke code om je pretpark te downloaden (`.zip` bestand).
 - Sla jouw pretpark op je computer op.

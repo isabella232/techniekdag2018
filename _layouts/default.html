@@ -38,7 +38,11 @@
         
         <ul>
         {% for release in site.github.releases %}
-          <li><a href="{{ release.assets.browser_download_url }}" target="_blank">{{ release.name }}</a></li>
+          {{ release.assets }}
+          
+          {{ release.assets.browser_download_url }}
+          
+          <li><a href="{{ release.assets.browser_download_url }}">{{ release.name }}</a></li>
         {% endfor %}
         </ul>
 

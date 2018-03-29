@@ -5,7 +5,7 @@ Op deze dag heb je ook een kaartje ontvangen waarop jouw unieke code staat zodat
 
 ### Scratch
 
-Om jouw pretpark te kunnen openen, moet je eerst het programma [Scratch downloaden](https://scratch.mit.edu/download#other).
+Om jouw pretpark te kunnen openen, moet je eerst het programma <a href="https://scratch.mit.edu/download#other" target="_blank">Scratch downloaden</a>.
 
 Nadat je Scratch hebt gedownload en geïnstalleerd, moet je de volgende stappen volgen:
 

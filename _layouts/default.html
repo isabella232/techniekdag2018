@@ -33,15 +33,17 @@
       </nav>
       <section>
         {{ content }}
+      </section>
+      <section>
+        <h2>Pretparken</h2>
         
-        Bestanden:
-        
+        Vind hieronder jouw pretpark-bestand om te downloaden.
+             
         <ul>
-        {% for release in site.github.releases %}        
-          <li><a href="{{ release.assets[0].browser_download_url }}">{{ release.name }}</a></li>
-        {% endfor %}
+          {% for release in site.github.releases %}        
+            <li><a href="{{ release.assets[0].browser_download_url }}">{{ release.name }}</a></li>
+          {% endfor %}
         </ul>
-
       </section>
       <footer>
         {% if site.github.is_project_page %}

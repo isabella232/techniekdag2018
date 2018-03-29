@@ -38,9 +38,11 @@
         Vind hieronder jouw pretpark-bestand om te downloaden.
              
         <ul>
+          
           {% for release in site.github.releases %}        
             <li><a href="{{ release.assets[0].browser_download_url }}">{{ release.name }}</a></li>
           {% endfor %}
+          
         </ul>
       </section>
       <footer>

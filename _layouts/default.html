@@ -22,7 +22,7 @@
       </header>
 
       <div id="banner">
-        <span id="logo"></span>
+
       </div><!-- end banner -->
 
     <div class="wrapper">
@@ -36,9 +36,11 @@
         
         Bestanden:
         
+        <ul>
         {% for release in site.github.releases %}
-          * [{{ release.name }}]({{ release.html_url }})
+          <li><a href="{{ release.upload_url }}">{{ release.name }}</a></li>
         {% endfor %}
+        </ul>
 
       </section>
       <footer>

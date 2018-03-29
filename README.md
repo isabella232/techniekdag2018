@@ -1,6 +1,6 @@
 ## Welkom op de website van het Yoast pretpark!
 
-Tijdens het afgelopen Techniekdag, heeft Yoast jou gevraagd om te helpen met het opbouwen van een pretpark in het programma Scratch!
+Tijdens de afgelopen Techniekdag, heeft Yoast jou gevraagd om te helpen met het opbouwen van een pretpark in het programma Scratch!
 Op deze dag heb je ook een kaartje ontvangen waarop jouw unieke code staat zodat je jouw pretpark hier kunt downloaden.
 
 ### Scratch

@@ -38,7 +38,7 @@
         
         <ul>
         {% for release in site.github.releases %}
-          <li><a href="{{ release.zipball_url }}">{{ release.name }}</a></li>
+          <li><a href="{{ release.assets.0.browser_download_url }}">{{ release.name }}</a></li>
         {% endfor %}
         </ul>
 

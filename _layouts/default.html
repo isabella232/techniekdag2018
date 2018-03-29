@@ -27,9 +27,7 @@
 
     <div class="wrapper">
       <nav>
-        <ul>
-          <li>item 1</li>
-        </ul>
+        <ul></ul><!-- Auto-generated menu -->
       </nav>
       <section>
         {{ content }}
@@ -41,7 +39,7 @@
              
         <ul>
           {% for release in site.github.releases %}        
-            <li><a href="{{ release.assets[0].browser_download_url }}">{{ release.name }}</a></li>
+            <li><a href="{{ release.assets[0].browser_download_url }}">{{ release.name }}</a>({{ release.assets[0].download_count }})</li>
           {% endfor %}
         </ul>
       </section>

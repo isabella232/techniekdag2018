@@ -12,7 +12,7 @@ Nadat je Scratch hebt gedownload en geïnstalleerd, moet je de volgende stappen 
 - Start Scratch.
 - Klik linksboven op het aardbolletje.
 - Selecteer Nederlands.
-- Zoek in de lijst hieronder naar jouw unieke code om je pretpark te downloaden (`.zip` bestand).
+- Zoek in de lijst hieronder naar jouw unieke code om je pretpark te downloaden (`.sb2` bestand).
 - Sla jouw pretpark op je computer op.
 - Ga in Scratch naar `Bestand -> Open` en zoek jouw bestand op je computer op en open deze.
 - Je bent nu klaar om verder te sleutelen aan jouw pretpark!

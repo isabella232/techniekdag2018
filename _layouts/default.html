@@ -39,8 +39,8 @@
         <p>Vind hieronder jouw pretpark-bestand om te downloaden.</p>
 
         <ul>
-          
-          {% for release in site.github.releases %}        
+          {% assign sorted_releases = (site.github.releases | sort: 'name') %}
+          {% for release in sorted_releases %}        
             <li><a href="{{ release.assets[0].browser_download_url }}">{{ release.name }}</a> ({{ release.assets[0].download_count }}&times; gedownload)</li>
           {% endfor %}
           

@@ -16,3 +16,7 @@ Nadat je Scratch hebt gedownload en geïnstalleerd, moet je de volgende stappen 
 - Sla jouw pretpark op je computer op.
 - Ga in Scratch naar `Bestand -> Open` en zoek jouw bestand op je computer op en open deze.
 - Je bent nu klaar om verder te sleutelen aan jouw pretpark!
+
+### De opdrachten
+
+Wil je nog een keer naar de opdrachten kijken? <a href="assets/docs/Pretpark.pdf" target="_blank">Klik dan hier om deze te downloaden</a>.

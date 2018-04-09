@@ -20,3 +20,5 @@ Nadat je Scratch hebt gedownload en geïnstalleerd, moet je de volgende stappen 
 ### De opdrachten
 
 Wil je nog een keer naar de opdrachten kijken? <a href="assets/docs/Pretpark.pdf" target="_blank">Klik dan hier om deze te downloaden</a>.
+
+ 
